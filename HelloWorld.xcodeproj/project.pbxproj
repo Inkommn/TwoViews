@@ -60,8 +60,8 @@
 				1DA2AE452A0CCED7008FD537 /* SceneDelegate.swift */,
 				1DA2AE472A0CCED7008FD537 /* ViewController.swift */,
 				1DA2AE492A0CCED7008FD537 /* Main.storyboard */,
-				1DA2AE4C2A0CCED8008FD537 /* Assets.xcassets */,
 				1DA2AE4E2A0CCED8008FD537 /* LaunchScreen.storyboard */,
+				1DA2AE4C2A0CCED8008FD537 /* Assets.xcassets */,
 				1DA2AE512A0CCED8008FD537 /* Info.plist */,
 			);
 			path = HelloWorld;
