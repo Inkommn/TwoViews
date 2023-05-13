@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Kdf-9O-cDd">
-                                <rect key="frame" x="20" y="63" width="374" height="381.5"/>
+                                <rect key="frame" x="20" y="63" width="374" height="382"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="X88-v0-hdT">
-                                <rect key="frame" x="20" y="464.5" width="374" height="381.5"/>
+                                <rect key="frame" x="20" y="465" width="374" height="382"/>
                                 <color key="backgroundColor" systemColor="systemPinkColor"/>
                             </view>
                         </subviews>
@@ -32,7 +32,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Kdf-9O-cDd" secondAttribute="trailing" constant="20" id="Ow7-xp-Kh1"/>
                             <constraint firstItem="Kdf-9O-cDd" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="15" id="RST-ad-VpF"/>
                             <constraint firstItem="X88-v0-hdT" firstAttribute="width" secondItem="Kdf-9O-cDd" secondAttribute="width" id="X3L-GS-jLQ"/>
-                            <constraint firstItem="X88-v0-hdT" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="-16" id="hbB-0J-uVk"/>
+                            <constraint firstItem="X88-v0-hdT" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="-15" id="hbB-0J-uVk"/>
                             <constraint firstItem="X88-v0-hdT" firstAttribute="top" secondItem="Kdf-9O-cDd" secondAttribute="bottom" constant="20" id="ig3-Fw-V55"/>
                             <constraint firstItem="Kdf-9O-cDd" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="pog-FA-Pwq"/>
                             <constraint firstItem="X88-v0-hdT" firstAttribute="height" secondItem="Kdf-9O-cDd" secondAttribute="height" id="uHR-7d-ncG"/>
